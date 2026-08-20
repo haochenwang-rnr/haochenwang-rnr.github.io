@@ -60,6 +60,7 @@ plugins:
 author:
   name   : "Haochen Wang"
   avatar : "/assets/images/bio.jpg"
+  bio    : "I wanna be adored"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
