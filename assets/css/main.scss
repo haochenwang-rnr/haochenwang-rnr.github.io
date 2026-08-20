@@ -1,8 +1,25 @@
+---
+---
+
+@charset "utf-8";
+
 .page__content {
-  font-size: 0.7rem;
+  font-size: 0.85rem;
 }
 
 .page__content p {
-  font-size: 0.7rem;
+  font-size: 0.85rem;
   line-height: 1.6;
+}
+
+.page__content h2 {
+  font-size: 1.5rem;
+}
+
+.page__content li {
+  font-size: 0.85rem;
+}
+
+.author__bio {
+  font-size: 0.8rem;
 }
